@@ -1,0 +1,5 @@
+
+Nombre:torales
+Apellido: maxi
+Edad:12
+anio ingreso2
